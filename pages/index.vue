@@ -3,7 +3,8 @@
     <div>
     
       <h1 class= "title">Hi, my name is Eline</h1>
-      <h2 class= "subtitle">Hello World</h2>
+      <h2 class= "subtitle">Hello World!</h2>
+      <p>It is nice inside.</p>
      
   </div>
 </template>
