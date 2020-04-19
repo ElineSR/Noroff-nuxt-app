@@ -4,7 +4,7 @@
     
       <h1 class= "title">Hi, my name is Eline</h1>
       <h2 class= "subtitle">Hello World!</h2>
-      <p>It is nice inside?</p>
+      <p>It is nice outside?</p>
      
   </div>
 </template>
@@ -27,7 +27,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color:blue;
+  background-color:#66FFF0;
 }
 
 .title {
